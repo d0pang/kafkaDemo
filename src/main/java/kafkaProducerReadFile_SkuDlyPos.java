@@ -87,7 +87,7 @@ public class kafkaProducerReadFile_SkuDlyPos extends Thread{
     public static void main(String[] args) {
 
         //String fileName1 = "D:/hadoop/data/kafka-data.txt";
-        String fileName1 = "D:/hadoop/data/sales.txt";
+        String fileName1 = "D:/hadoop/data/sales1111.txt";
 
         String testTopic = "dylan.sales";
 
